@@ -1,0 +1,117 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1629 >>
+stream
+BT
+/F2 22 Tf
+72 740 Td
+(Registration UI Kit Summary) Tj
+0 0 Td
+/F1 11 Tf
+72 718 Td
+(Project snapshot for five distinct signup experiences) Tj
+0 0 Td
+/F2 14 Tf
+72 680 Td
+(Overview) Tj
+0 0 Td
+/F1 11 Tf
+72 660 Td
+(This app delivers five visual styles for user registration pages.) Tj
+0 0 Td
+/F1 11 Tf
+72 644 Td
+(Each style includes account, email, password, and confirm password fields.) Tj
+0 0 Td
+/F1 11 Tf
+72 628 Td
+(Design goal: offer clear visual differentiation for A/B tests or product lines.) Tj
+0 0 Td
+/F2 14 Tf
+72 596 Td
+(Pages) Tj
+0 0 Td
+/F1 11 Tf
+72 576 Td
+(- signup-neon.html: cyber neon, glow and scanline inspired UI.) Tj
+0 0 Td
+/F1 11 Tf
+72 560 Td
+(- signup-editorial.html: editorial print feel with stamp and dashed frame.) Tj
+0 0 Td
+/F1 11 Tf
+72 544 Td
+(- signup-brutal.html: brutalist blocks, hard borders, bold contrast.) Tj
+0 0 Td
+/F1 11 Tf
+72 528 Td
+(- signup-harvest.html: warm seasonal palette with grain texture.) Tj
+0 0 Td
+/F1 11 Tf
+72 512 Td
+(- signup-minimal.html: clean workspace style with restrained accents.) Tj
+0 0 Td
+/F2 14 Tf
+72 480 Td
+(Entry) Tj
+0 0 Td
+/F1 11 Tf
+72 460 Td
+(index.html lists the five single pages for quick navigation.) Tj
+0 0 Td
+/F2 14 Tf
+72 428 Td
+(Shared Styling) Tj
+0 0 Td
+/F1 11 Tf
+72 408 Td
+(styles.css provides shared layout, form styling, and theme variations.) Tj
+0 0 Td
+/F2 14 Tf
+72 376 Td
+(Notes) Tj
+0 0 Td
+/F1 11 Tf
+72 356 Td
+(- Forms are static HTML for layout review; no backend wiring included.) Tj
+0 0 Td
+/F1 11 Tf
+72 340 Td
+(- Mobile layout adapts via a responsive grid and flexible card widths.) Tj
+0 0 Td
+/F1 9 Tf
+72 300 Td
+(Generated on 2026-02-04) Tj
+0 0 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001932 00000 n 
+0000002002 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2077
+%%EOF
